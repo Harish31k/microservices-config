@@ -1,10 +1,10 @@
 server:
   port: 8081
 
-spring:
-  data:
-    mongodb:
-      uri: mongodb://localhost:27017/userdb
+# spring:
+#   data:
+#     mongodb:
+#       uri: mongodb://localhost:27017/userdb
 
 eureka:
   client:
